@@ -1,2 +1,2 @@
 # phenotypelinks
-Companion software to the book "Gene prioritization coupled with next generation sequencing data processing pipeline"
+Sooftware supporting the project "Gene prioritization coupled with next generation sequencing data processing pipeline"
