@@ -1,5 +1,3 @@
 # phenotypelinks
 Software supporting the project "Gene prioritization coupled with next generation sequencing data processing pipeline"
-Manual page: http://phenotypelinks.net/browse/userManual.php
-Example results page: http://phenotypelinks.net/browse/sessions/30931_Tue_Apr_18_00-10-18_2017.html
-To fix : blank page after query while computing
+Part of its data was published in Pranckeviciene E. Procedure and datasets to compute links between genes and phenotypes defined by MeSH keywords [version 1; peer review: 2 approved with reservations]. F1000Research 2015, 4:47 (https://doi.org/10.12688/f1000research.6140.1)
